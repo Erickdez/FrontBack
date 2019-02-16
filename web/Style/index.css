@@ -1,0 +1,22 @@
+h1{
+    color: cadetblue;
+    font-size: 40px;
+}
+
+label {
+    color: green;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+label.price{
+    font-size: 16px;
+    color: grey;
+    font-weight: bold;    
+}
+
+label.error{
+    color: tomato;
+    font-size: 40px;
+    font-family: Arial;
+}
